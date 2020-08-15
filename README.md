@@ -6,3 +6,4 @@ This is a simple readme file
 
 some other line on other branch.
 trouble
+let see merge
