@@ -8,3 +8,5 @@ some other line on other branch.
 trouble
 let see merge
 some trouble
+
+stash test
