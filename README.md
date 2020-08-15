@@ -6,4 +6,8 @@ This is a simple readme file
 
 some other line on other branch.
 trouble
+<<<<<<< HEAD
 let see merge
+=======
+some trouble
+>>>>>>> bad
